@@ -9,4 +9,8 @@
     <color name="white">#FFFFFFFF</color>
     <color name="my_green">#11BB11</color>
     <color name="my_orange">#FF760D</color>
+    #ADDING NEW THEME COLORS
+    <color name="lab2_gold">#D7BE69</color>
+    <color name="lab2_black">#04151f</color>
+    <color name="lab2_gray">#829298</color>
 </resources>
